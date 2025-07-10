@@ -1,7 +1,8 @@
 public class Main {
 
    public static void main(String[] args) {
-       System.out.println("Hello Git");
-       System.out.println("Измение с другой вeтки");
+       System.out.println("Hello Git two");
+       String st = "Change main";
+       System.out.println(st);
    }
 }
